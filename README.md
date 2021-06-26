@@ -13,9 +13,6 @@
   <a href="http://qiita.com/Kame-jp">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Kame-jp/posts.svg" />
   </a>
-  <//qiita.com/Kame-jp">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Kame-jp/contributions.svg" />
-  </a>
 </p>
 
 <p align="left"> 
