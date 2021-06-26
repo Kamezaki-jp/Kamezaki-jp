@@ -24,9 +24,5 @@
 </p>
 
 <a href="https://github.com/Kamezaki-jp">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamezaki-jp&theme=default" height="260px" style="max-width:100%;" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamezaki-jp&theme=default" height="260px" />
 </a>
-  
-[![](https://raw.githubusercontent.com/Kamezaki-jp/Kamezaki-jp/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Kamezaki-jp/Kamezaki-jp/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Kamezaki-jp/Kamezaki-jp/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
