@@ -8,7 +8,7 @@
     <img height="20" src="https://img.shields.io/twitter/follow/Kame_prog?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Kamezaki-jp">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/Kamezaki-jp?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/Kame-jp">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Kame-jp/posts.svg" />
