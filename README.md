@@ -24,5 +24,5 @@
 </p>
 
 <a href="https://github.com/Kamezaki-jp">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamezaki-jp&theme=yeblu" height="260px" style="max-width:100%;" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamezaki-jp&theme=default" height="260px" style="max-width:100%;" />
 </a>
