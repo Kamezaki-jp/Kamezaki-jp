@@ -22,3 +22,7 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamezaki-jp&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=yeblu" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kamezaki-jp&count_private=true&show_icons=true&show_icons=true&theme=yeblu" />
 </p>
+
+<a href="https://github.com/Kamezaki-jp">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamezaki-jp&theme=yeblu" height="260px" style="max-width:100%;" />
+</a>
