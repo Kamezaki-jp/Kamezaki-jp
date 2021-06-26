@@ -17,8 +17,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/Kame-jp/contributions.svg" />
   </a>
 </p>
-  
-![Metrics](https://github.com/yutkat/yutkat/blob/main/github-metrics.svg)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamezaki-jp&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
